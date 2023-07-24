@@ -1,0 +1,11 @@
+{
+    "type": "module",
+    "dependencies": {
+        "axios": "^0.27.2",
+        "handlebars": "^4.7.7",
+        "marked": "^4.0.16",
+        "mjml": "^4.12.0",
+        "moment": "^2.29.3",
+        "typograf": "^6.14.1"
+    }
+}
